@@ -1,3 +1,14 @@
+- title: Extracting interpretable signatures of whole-brain dynamics through systematic comparison
+  image: Bryant_fMRI.png
+  description:
+  authors: A.G. Bryant, K. Aquino, L. Parkes, A. Fornito, B.D. Fulcher.
+  link:
+    url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012692
+    journal: PLOS Computational Biology
+    year: 2024
+  highlight: 1
+  news2:
+  
 - title: Unifying Pairwise Interactions in Complex Dynamics.
   image: CliffPairwise.png
   description:
@@ -14,10 +25,10 @@
   description:
   authors: P. Cajic, D. Agius, O.M. Cliff, J.M. Shine, J.T. Lizier, B.D. Fulcher.
   link:
-    url: https://doi.org/10.1088/2632-072X/ad32da
-    journal: Journal of Physics Complexity
-    year: 2024
-  highlight: 0
+    url: https://arxiv.org/abs/2307.12556
+    journal: arXiv
+    year: 2023
+  highlight: 1
   news2:
 
 - title: "Never a Dull Moment: Distributional Properties as a Baseline for Time-Series Classification."
@@ -39,7 +50,7 @@
     url: https://arxiv.org/abs/2208.06146v3
     journal: arXiv
     year: 2022
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: Classifying Kepler light curves for 12,000 A and F stars using supervised feature-based machine learning.
@@ -50,7 +61,7 @@
     url: https://doi.org/10.1093/mnras/stac1515
     journal: Monthly Notices of the Royal Astronomical Society
     year: 2022
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: Extracting dynamical understanding from neural-mass models of mouse cortex.
@@ -83,7 +94,7 @@
     url: https://doi.org/10.1016/j.neuroimage.2020.117395
     journal: NeuroImage
     year: 2021
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: Timescales of spontaneous fMRI fluctuations relate to structural connectivity in the brain.
